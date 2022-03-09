@@ -1,0 +1,12 @@
+# nikiiar
+code of data
+{
+agent any
+stages {
+    stage('hello') {
+         steps {
+               echo 'hello world'
+          }
+         }
+        }
+     }
